@@ -1,0 +1,9 @@
+.button {
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #303150;
+  border: none;
+  border-radius: 12px;
+  background-color: #f8fafc;
+  padding: 14px 36px;
+}
